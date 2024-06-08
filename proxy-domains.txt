@@ -89,7 +89,6 @@ fig.bbc.co.uk
 open.live.bbc.co.uk
 sa.bbc.co.uk
 www.bbc.co.uk
-crunchyroll.com
 ifconfig.co
 omtrdc.net
 sling.com
